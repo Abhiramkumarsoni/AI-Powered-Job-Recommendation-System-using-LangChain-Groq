@@ -27,31 +27,26 @@ An AI-powered **Streamlit** web app that:
 ---
 
 ## 📦 Installation
-
-### 1️⃣ Clone the repository
-
-git clone https://github.com/yourusername/ai-resume-job-finder.git
-cd ai-resume-job-finder
 2️⃣ Install dependencies
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
+
+---
 🔑 API Keys
 You will need two API keys to run this project:
 
-Groq API Key → Get here
+Groq API Key
 
-Serper API Key → Get here
+Serper API Key 
 
 Both keys can be entered directly in the Streamlit sidebar when running the app.
 
+---
+
 ▶️ Usage
+
 Run the Streamlit app:
 
-bash
-Copy
-Edit
 streamlit run app.py
 Steps:
 
@@ -69,16 +64,22 @@ Top matching job links
 
 AI-generated reasons why each job is suitable
 
+---
+
+
 📂 Project Structure
 
-
 📦 ai-resume-job-finder
- ┣ 📜 app.py       
+
+ ┣ 📜 app.py     
+ ┣ 📜 check.py
  ┣ 📜 requirements.txt  
  ┣ 📜 README.md       
- ┣ 📂 screenshots       
+
+
+ ---
 ⚙️ Tech Stack
-Python 3.9+
+  Python 3.9+
 
 Streamlit – UI framework
 
@@ -90,6 +91,7 @@ Serper API – Job search from LinkedIn & Indeed
 
 HuggingFace – Embeddings & text processing
 
+---
 📜 License
 This project is licensed under the MIT License.
 
@@ -99,3 +101,5 @@ Groq – High-speed LLM APIs
 Serper.dev – Job search integration
 
 Streamlit – Simple & beautiful UI framework
+
+
