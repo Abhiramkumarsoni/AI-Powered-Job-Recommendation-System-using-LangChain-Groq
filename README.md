@@ -21,10 +21,15 @@ An AI-powered **Streamlit** web app that:
 
 ## 🖥️ Demo
 
+![App Screenshot](screenshot.png)  
+*Replace with a real screenshot of your app.*
+
+---
 
 ## 📦 Installation
 
 ### 1️⃣ Clone the repository
+
 git clone https://github.com/yourusername/ai-resume-job-finder.git
 cd ai-resume-job-finder
 2️⃣ Install dependencies
@@ -95,20 +100,3 @@ Groq – High-speed LLM APIs
 Serper.dev – Job search integration
 
 Streamlit – Simple & beautiful UI framework
-
-yaml
-Copy
-Edit
-
----
-
-This version has:
-- Proper blank lines so GitHub renders sections cleanly.
-- Emoji aligned with text.
-- Code blocks fenced correctly.
-- Consistent heading sizes.
-
-If you want, I can also **add badges** (Python, Streamlit, License, Stars) to the top so it looks even more professional.  
-That’ll make your README look like a polished open-source project.  
-
-Do you want me to add those badges?
