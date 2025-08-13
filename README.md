@@ -20,9 +20,12 @@ An AI-powered **Streamlit** web app that:
 ---
 
 ## 🖥️ Demo
+<img width="1901" height="960" alt="Screenshot 2025-08-13 213414" src="https://github.com/user-attachments/assets/03cef7ef-06e9-45e1-b8dd-dbd854ffabab" />
+<img width="1901" height="960" alt="Screenshot 2025-08-13 213414" src="https://github.com/user-attachments/assets/cd2c66a9-a023-4714-b65d-c7b0d30522ad" />
+<img width="1896" height="957" alt="image" src="https://github.com/user-attachments/assets/75cb40b1-2072-4cff-8689-f05d5810594d" />
 
-![App Screenshot](screenshot.png)  
-*Replace with a real screenshot of your app.*
+
+
 
 ---
 
