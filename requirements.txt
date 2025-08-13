@@ -1,0 +1,42 @@
+requests
+langchain-community
+pdfplumber
+pypdf
+beautifulsoup4
+streamlit
+langchain
+google-cloud-aiplatform    # for Vertex AI (Gemini)
+openai                     # optional if you use OpenAI embeddings
+pinecone-client            # or weaviate-client / chromad
+tika
+pyresparser        
+spacy
+pdfplumber
+requests
+python-multipart
+pandas
+langchain
+python-dotenv
+langchain-openai
+langchain-core
+langchain-community
+bs4
+faiss-cpu
+pypdf
+arxiv
+pymupdf
+wikipedia
+lxml
+langchain_huggingface
+streamlit
+PyPDF2
+langgraph
+langgraph-cli[inmem]  
+langchain_groq
+matplotlib
+seaborn
+pandas
+duckduckgo-search
+sentence_transformers
+duckduckgo-search
+langchain-groq

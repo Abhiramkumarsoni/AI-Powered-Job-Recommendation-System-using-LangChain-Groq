@@ -1,0 +1,8 @@
+# Environment & dependencies
+/venv/
+.env
+
+/faiss_jobs_db/
+faiss_resume_db/
+
+resume.pdf
