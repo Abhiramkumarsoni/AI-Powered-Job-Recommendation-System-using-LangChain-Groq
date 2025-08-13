@@ -48,6 +48,7 @@ Both keys can be entered directly in the Streamlit sidebar when running the app.
 Run the Streamlit app:
 
 streamlit run app.py
+
 Steps:
 
 Enter your Groq API Key and Serper API Key in the left sidebar.
