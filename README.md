@@ -20,11 +20,11 @@ An AI-powered **Streamlit** web app that:
 ---
 
 ## 🖥️ Demo
-<img width="1912" height="951" alt="Screenshot 2025-08-13 213341" src="https://github.com/user-attachments/assets/2b18bed3-cf41-4d9f-87da-f99c1d852005" />
+<img width="1700" height="800" alt="Screenshot 2025-08-13 213341" src="https://github.com/user-attachments/assets/2b18bed3-cf41-4d9f-87da-f99c1d852005" />
 
-<img width="1901" height="960" alt="Screenshot 2025-08-13 213414" src="https://github.com/user-attachments/assets/cd2c66a9-a023-4714-b65d-c7b0d30522ad" />
+<img width="1700" height="800" alt="Screenshot 2025-08-13 213414" src="https://github.com/user-attachments/assets/cd2c66a9-a023-4714-b65d-c7b0d30522ad" />
 
-<img width="1896" height="957" alt="image" src="https://github.com/user-attachments/assets/75cb40b1-2072-4cff-8689-f05d5810594d" />
+<img width="1700" height="800" alt="image" src="https://github.com/user-attachments/assets/75cb40b1-2072-4cff-8689-f05d5810594d" />
 
 
 
