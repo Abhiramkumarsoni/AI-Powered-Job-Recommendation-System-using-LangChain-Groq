@@ -70,14 +70,13 @@ Top matching job links
 AI-generated reasons why each job is suitable
 
 📂 Project Structure
-bash
-Copy
-Edit
+
+
 📦 ai-resume-job-finder
- ┣ 📜 app.py            # Main Streamlit application
- ┣ 📜 requirements.txt  # Python dependencies
- ┣ 📜 README.md         # Project documentation
- ┣ 📂 screenshots       # Screenshots for README
+ ┣ 📜 app.py       
+ ┣ 📜 requirements.txt  
+ ┣ 📜 README.md       
+ ┣ 📂 screenshots       
 ⚙️ Tech Stack
 Python 3.9+
 
