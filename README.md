@@ -27,7 +27,6 @@ An AI-powered Streamlit web app that:
 ## 📦 Installation
 
 1. **Clone the repository**
-```bash
 git clone https://github.com/yourusername/ai-resume-job-finder.git
 cd ai-resume-job-finder
 Install dependencies
